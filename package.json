@@ -2,7 +2,10 @@
     "name": "node-red-covid-status-by-country",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-dashboard": "2.22.1",
+        "node-red-node-ui-table": "0.3.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
