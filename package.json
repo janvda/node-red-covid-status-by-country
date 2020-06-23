@@ -1,6 +1,6 @@
 {
     "name": "node-red-covid-status-by-country",
-    "description": "A Node-RED Project",
+    "description": "Provides a nice overview of the current COVID-19 status for the different countries.",
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "2.22.1",

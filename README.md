@@ -18,3 +18,8 @@ Here below a description of the different columns shown in the table:
 ![](https://aws1.discourse-cdn.com/business6/uploads/nodered/original/3X/d/9/d91dfea0a5643fbd0fe9c1e515d3f9b71a4c016d.png)
 
 This flow is also discussed in the Node-red forum under topic [COVID-19 status by country](https://discourse.nodered.org/t/covid-19-status-by-country/28743)
+
+# Installation Warning
+
+Just importing the flow in node-red doesn't always immediately work due to an issue with the `node-red-node-ui-table` node.
+If you encounter this issue then an easy fix for it can be found [here](https://discourse.nodered.org/t/covid-19-status-by-country/28743/19).
