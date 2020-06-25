@@ -1,7 +1,7 @@
 node-red-covid-status-by-country
 ================================
 
-It gives a nice overview of the current covid status for the different countries.
+It gives a nice overview of the current covid status for the different countries or US states.
 
 **Main features:**
 - reproduction rate calculation (based on confirmed cases)
