@@ -17,7 +17,9 @@ Here below a description of the different columns shown in the table:
 
 ![](https://aws1.discourse-cdn.com/business6/uploads/nodered/original/3X/d/9/d91dfea0a5643fbd0fe9c1e515d3f9b71a4c016d.png)
 
-This flow is also discussed in the Node-red forum under topic [COVID-19 status by country](https://discourse.nodered.org/t/covid-19-status-by-country/28743)
+This flow is also discussed in the Node-red forum under topics
+*  [COVID-19 status by country](https://discourse.nodered.org/t/covid-19-status-by-country/28743)
+*  [COVID-19 status by country (update)](https://discourse.nodered.org/t/covid-19-status-by-country-update/32602)
 
 # Installation Warning
 
